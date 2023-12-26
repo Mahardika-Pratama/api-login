@@ -1,0 +1,8 @@
+express
+mysql2
+body-parser
+jsonwebtoken
+assert
+bcrypt
+crypto
+mysql
